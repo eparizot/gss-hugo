@@ -1,0 +1,6 @@
+[submodule "MyHugoSite/themes/hugo-geekblog"]
+	path = MyHugoSite/themes/hugo-geekblog
+	url = https://github.com/thegeeklab/hugo-geekblog
+[submodule "MyHugoSite/themes/blackburn"]
+	path = MyHugoSite/themes/blackburn
+	url = https://github.com/yoshiharuyamashita/blackburn.git
